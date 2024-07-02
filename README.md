@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors Game
 
-## A fun and interactive web-based Rock-Paper-Scissors game built with React. Play against the computer, track your score, and enjoy a sleek, responsive design.
+## A fun and interactive web-based Rock-Paper-Scissors game built with React. Play against the computer, track your score, and enjoy a sleek, responsive design.This project was created as part of the Frontendmentor.io challenges
 Table of Contents
 
    Demo
